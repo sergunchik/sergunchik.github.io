@@ -3,6 +3,6 @@
 
 
 # TeX
-[Tectonic](https://tectonic-typesetting.github.io)
-[plasTeX](http://plastex.github.io/plastex/)
+- [Tectonic](https://tectonic-typesetting.github.io)
+- [plasTeX](http://plastex.github.io/plastex/)
 

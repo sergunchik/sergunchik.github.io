@@ -3,8 +3,8 @@
 
 # TeX
 - [Tectonic](https://tectonic-typesetting.github.io)
-- [plasTeX](http://plastex.github.io/plastex/)
-- SimonWaldherr/HowTo-Deploy-LaTeX-Documents
+- [plasTeX](https://plastex.github.io/plastex/)
+- <https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents>
 
 # Markdown
 - dbhi/mdpaper

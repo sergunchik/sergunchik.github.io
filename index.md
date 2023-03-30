@@ -1,8 +1,11 @@
-# [Homepage](http://mat.puc-rio.br/~sergey)
+# Old [Homepage](http://mat.puc-rio.br/~sergey)
 
-# [Seminar](https://sergunchik.github.io/seminario)
+# New [Seminar](https://sergunchik.github.io/seminario)
 
-# Preview of some work in progress
-[Combinatorial non-abelian Torelli](https://sergunchik.github.io/torelli)
+# [Miscellaneous useful links](links.md)
 
-# Misc
+# Preview of some work in progress:
+
+# [Combinatorial non-abelian Torelli theorem](https://sergunchik.github.io/torelli)
+
+
